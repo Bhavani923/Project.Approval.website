@@ -19,4 +19,13 @@ the database, configuring the Project site, etc.) to the HOD.
 ### Tools:Vscode, Xampp Server
 
 # Screenshots:
+![Screenshot (43)](https://user-images.githubusercontent.com/77053491/137473982-df7fb2cc-e8ba-4b41-846c-74aceef50c31.png)
+
+![Screenshot (46)](https://user-images.githubusercontent.com/77053491/137474029-7e2d4ceb-f959-4388-aa5e-96f56f24b2e4.png)
+
+![Screenshot (47)](https://user-images.githubusercontent.com/77053491/137474073-3b50c557-649d-4f7f-b15e-b66b52431324.png)
+
+![Screenshot (44)](https://user-images.githubusercontent.com/77053491/137474006-d7e1e518-e354-4d8e-84ba-ec4a5c00b33d.png)
+
+![Screenshot (45)](https://user-images.githubusercontent.com/77053491/137474019-2824a777-65d9-41f0-870f-1a2a2fbf0b40.png)
 
