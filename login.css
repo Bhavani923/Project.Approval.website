@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+   
+}
+.inner-box{
+    background-color: red;
+    padding: 20px;
+}
+h2{
+    color: gray;
+
+}
+.text1{
+    margin-top: 10px;
+    padding: 8px;
+    width: 230px;
+    padding-left: 20px;
+    border-radius: 17px;
+    outline: none;
+    border: none;
+    
+}
+.signin{
+    margin-top: 12px;
+    padding: 8px;
+    width: 254px;
+    border-radius: 17px;
+    justify-content: center;
+    text-align: center;
+    outline: none;
+    border: black;
+}
+.text2{
+    margin-top: 10px;
+}
+label{
+    color: teal;
+    font-size: 17px;
+}
+a {
+    margin-left: 25px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+
